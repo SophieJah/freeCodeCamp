@@ -24,6 +24,12 @@ time on syntax issues.
 
 ### Installation
 
+RuboCop's installation is pretty standard:
+
+```
+$ gem install rubocop
+```
+
 Rubocop is delivered as a Gem, so on a typical project which uses Bundler you
 would add it to the development section of your `Gemfile`:
 
